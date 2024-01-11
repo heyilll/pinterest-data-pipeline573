@@ -56,12 +56,15 @@ Using the cleaned data from the pipeline, SQL queries can provide useful insight
 
 Find the user with the most followers in each country
 
+![Screenshot 2024-01-11 175000](https://github.com/heyilll/pinterest-data-pipeline573/assets/117127128/8732bc17-f286-43c9-9c36-74960cf06a02)
 
 Based on the above query, find the country with the user with most followers
 
+![Screenshot 2024-01-11 175012](https://github.com/heyilll/pinterest-data-pipeline573/assets/117127128/c75bad90-03a3-4fe2-87cc-c188da061b3c)
 
 Find the most popular category for different age groups
 
+![Screenshot 2024-01-11 175026](https://github.com/heyilll/pinterest-data-pipeline573/assets/117127128/a3bbd035-c0ac-4c34-a230-f78071bbb166)
 
 ## License
 N/A
